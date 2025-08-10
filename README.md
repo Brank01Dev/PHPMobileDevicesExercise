@@ -62,13 +62,3 @@ Here’s a quick look at the app interface:
 - Structuring code and working with databases.
 
 ---
-
-## ✅ To-Do (for learning & improvement)
-
-- [ ] Add input validation and sanitization
-- [ ] Switch to prepared statements (PDO or MySQLi)
-- [ ] Add user feedback (success/error messages)
-- [ ] Improve CSS styling
-- [ ] Separate logic from presentation (MVC pattern)
-
----
